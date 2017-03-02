@@ -5,6 +5,7 @@ Make sure the library you write is worth its name! Don't call some leftpad libra
 - Readme
 - Reassess
 - Rebound
+- Rescind
 - Redefine
 - Reflect
 - Refund
