@@ -19,6 +19,7 @@ Make sure the library you write is worth its name! Don't call some leftpad libra
 - Reject
 - Resent
 - Regroup
+- Rescind
 
 Pull requests welcome!
 
