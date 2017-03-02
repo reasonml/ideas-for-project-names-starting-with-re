@@ -2,24 +2,33 @@
 
 Make sure the library you write is worth its name! Don't call some leftpad library "reindent". That's kinda mean to others to need that name...
 
-- Resource
-- Release
-- Reward
-- Revert
-- Revenge
-- Respectable
-- Redefine
+- Readme
 - Reassess
-- Reflect
-- Regroup
 - Rebound
-- Refund
-- Remedy
-- Remove
-- Reject
-- Resent
-- Regroup
 - Rescind
+- Redefine
+- Reflect
+- Refund
+- Regroup
+- Regroup
+- Reject
+- Release
+- Remedy
+- Remind
+- Remove
+- Resent
+- Resource
+- Respectable
+- Revenge
+- Revert
+- Reward
+
+Generate your own list:
+
+```
+cat /usr/share/dict/words | grep "^re" | less
+```
 
 Pull requests welcome!
+
 
