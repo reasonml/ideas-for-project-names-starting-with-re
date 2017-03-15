@@ -20,6 +20,7 @@ cat /usr/share/dict/words | grep "^re" | less
 - Reject
 - Release
 - Remedy
+- Remember
 - Remind
 - Remove
 - Resent
