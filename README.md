@@ -11,6 +11,7 @@ cat /usr/share/dict/words | grep "^re" | less
 - Readme
 - Reassess
 - Rebound
+- Reckless
 - Rescind
 - Redefine
 - Reflect
@@ -18,11 +19,16 @@ cat /usr/share/dict/words | grep "^re" | less
 - Regroup
 - Regroup
 - Reject
+- Rekindle
 - Release
+- Relieve
+- Relive
 - Remedy
 - Remind
 - Remove
+- Render
 - Resent
+- Resonate
 - Resource
 - Respectable
 - Revenge
