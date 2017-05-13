@@ -1,13 +1,5 @@
 # ideas-for-project-names-starting-with-re
 
-Make sure the library you write is worth its name! Don't call some leftpad library "reindent". That's kinda mean to others who need that name...
-
-Generate your own list:
-
-```
-cat /usr/share/dict/words | grep "^re" | less
-```
-
 - Readme
 - Reassess
 - Rebound
@@ -36,5 +28,13 @@ cat /usr/share/dict/words | grep "^re" | less
 - Revert
 - Reward
 
+
+Generate your own list:
+
+```
+cat /usr/share/dict/words | grep "^re" | less
+```
+
 Pull requests welcome!
 
+Make sure the library you write is worth its name! Don't do name squatting, be nice =)
