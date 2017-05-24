@@ -9,7 +9,6 @@
 - Reflect
 - Refund
 - Regroup
-- Regroup
 - Reject
 - Rekindle
 - Release
