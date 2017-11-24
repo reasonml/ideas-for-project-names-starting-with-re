@@ -27,6 +27,7 @@
 - Revenge
 - Revert
 - Reward
+- Renegade
 
 
 Generate your own list:
