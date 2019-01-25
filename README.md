@@ -14,11 +14,13 @@
 - Rekindle
 - Release
 - Relieve
+- Relinquish
 - Relive
 - Remedy
 - Remember
 - Remind
 - Remove
+- Renaissance
 - Render
 - Resent
 - Resonate
@@ -26,8 +28,8 @@
 - Respectable
 - Revenge
 - Revert
+- Revolution
 - Reward
-
 
 Generate your own list:
 
