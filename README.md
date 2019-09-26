@@ -9,10 +9,12 @@
 - Redefine
 - Reflect
 - Refund
+- Refactory
 - Regroup
 - Reject
 - Rekindle
 - Release
+- Reliable
 - Relieve
 - Relive
 - Remedy
@@ -21,7 +23,9 @@
 - Remove
 - Render
 - Resent
+- Resistance
 - Resonate
+- Resolution
 - Resource
 - Respectable
 - Revenge
